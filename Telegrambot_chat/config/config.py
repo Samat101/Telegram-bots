@@ -4,8 +4,8 @@ BOT_TOKEN = "Ваш код"
 DB_URL = "ваш код"
 
 # Ollama
-OLLAMA_MODEL = "qwen3:4b"  # или ваша модель
-OLLAMA_URL = "ваш код"
+OLLAMA_MODEL = "qwen3:4b"  # или ваша любая модель
+OLLAMA_URL = "ваш код "
 
 # Прочее
 DEFAULT_SYSTEM_PROMPT = (
